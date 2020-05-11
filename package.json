@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-vuent",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "vue-cli 3 plugin to add Vuent",
   "author": {
     "name": "Artur Mizera",
